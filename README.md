@@ -10,7 +10,7 @@
 
 # 🤔 What I'm Maintaining Officially:
  
-## BananaDroid && RisingOSS support group for **[Poco X4 Pro 5G](https://t.me/veux_builds)** 
+## RisingOSS support group for **[Poco F5 5G](https://t.me/marble_builds)** 
  
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
